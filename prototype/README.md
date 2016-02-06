@@ -1,3 +1,29 @@
-## Prototype
+# taskmeter
 
-Electron app prototype that will be integrated into Product once I am more familiar with Electron/technologies involved.
+> My tremendous app
+
+
+## Dev
+
+```
+$ npm install
+```
+
+### Run
+
+```
+$ npm start
+```
+
+### Build
+
+```
+$ npm run build
+```
+
+Builds the app for OS X, Linux, and Windows, using [electron-packager](https://github.com/maxogden/electron-packager).
+
+
+## License
+
+MIT © [Charles Lai](http://charlesjianlai.com)
